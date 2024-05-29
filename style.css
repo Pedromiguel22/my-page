@@ -1,0 +1,30 @@
+
+body{
+    background-color: #F7DAD4;
+    margin: 0px;
+}
+
+.div2{
+    
+    border: 50px solid #FC7307;
+    background-color: #FC7307;
+    color: #342609;
+}
+
+.div3{
+    border-style: solid;
+    margin: 50px ;
+    margin-right: 500px;
+    margin-left: 500px;
+    border-radius: 15px;
+}
+
+footer{
+    border: 50px #342609;
+    background-color: #342609;
+
+}
+
+
+
+
